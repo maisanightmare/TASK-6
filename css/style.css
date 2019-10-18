@@ -1,0 +1,67 @@
+.main-header{
+	margin: 30px 120px;
+}
+
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	width: 200px;
+}
+
+.navigation{
+	display: inline-block;
+	float: right;
+	margin-top: 15px;
+}
+
+.navigation-li{
+	display: inline-block;
+	vertical-align: middle;
+    font-size: 25px;
+    margin-right: 15px;
+}
+
+.navigation-a{
+	color: #3D58A6;
+}
+
+.container{
+	max-width: 1350px;
+	padding: 30px 120px;
+	background-color: #E6E6E6;	
+}
+
+.photo{
+	width: 1350px;
+}
+
+.container-1{
+	max-height: 1350px;
+	padding: 80px 50px ;
+	background-color: #363E97;
+}
+
+.text{
+	color: white;
+	font-size: 20px;
+	margin-bottom: 20px;
+
+}
+
+.video{
+	width: 500px; 
+}
+
+.video-1{
+	height: 499px;
+}
+
+.box{
+	width: 550px;
+	display: inline-block;
+}
+
+.box-1{
+	width: 550px;
+	display: inline-block;
+}
