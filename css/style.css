@@ -101,3 +101,53 @@
 	border: 15px solid #fff;
 }
 
+.container-3{
+	max-width: 1600px;
+	width: 100%;
+	padding: 50px 50px;
+	background-color: #E6E6E6;
+}
+
+.h1{
+	margin-bottom: 40px;
+	font-size: 25px;
+	color: #000;
+}
+
+.click{
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.p-text{
+	width: 250px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 25px;
+}
+
+.name{
+	margin-bottom: 15px;
+}
+
+.white{
+	background-color: #fff;
+	display: inline-block;
+	margin-left: 50px;
+}
+
+.float{
+	float: right;
+	margin-top: 105px;
+}
+
+.float1{
+	float: right;
+	font: 15px;
+	margin-bottom: 15px;
+}
+
+.finish{
+	margin-left: 100px;
+	font-size: 15px;
+}
