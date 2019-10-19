@@ -26,7 +26,7 @@
 }
 
 .container{
-	max-width: 1350px;
+	max-width: 1600px;
 	padding: 30px 120px;
 	background-color: #E6E6E6;	
 }
@@ -36,15 +36,16 @@
 }
 
 .container-1{
-	max-height: 1350px;
-	padding: 80px 50px ;
+	max-width: 1600px;
+	width: 100%;
+	padding: 50px 50px ;
 	background-color: #363E97;
 }
 
 .text{
 	color: white;
-	font-size: 20px;
-	margin-bottom: 20px;
+	font-size: 25px;
+	margin-bottom: 40px;
 
 }
 
@@ -65,3 +66,38 @@
 	width: 550px;
 	display: inline-block;
 }
+
+.container-2{
+	max-width: 1600px;
+	width: 100%;
+	padding: 50px 50px;
+	background-color: #BDCCD4;
+}
+
+.text-1{
+	font-size: 25px;
+	color:#3D58A6;
+	margin-left: 30px;
+}
+
+.photo1{
+	width: 300px;
+	margin-right: 20px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+.photo-box{
+	display: inline-block;
+	height: 280px;
+	width: 280px;
+	margin-right: 80px;
+}
+
+.box-text{
+	font-size: 20px;
+	margin-left: 30px;
+	background-color: #fff;
+	border: 15px solid #fff;
+}
+
